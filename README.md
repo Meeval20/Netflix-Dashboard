@@ -16,3 +16,4 @@ Analysing the Streaming of movie and TV shows based on thier ratings,genres and 
 3.Improve streming of Family related movies for increasing the family audience.<br>
 4.Stream more old good quality movies and shows and to increase more subscribers between the age gab of 45 to 70.<br>
 
+<img width="612" alt="Dashboard Image" src="" />
